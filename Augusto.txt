@@ -1,8 +1,7 @@
 Hola Juan Carlos...
+
 Como anda la banda muchachos?
-<<<<<<< HEAD
-Oh lala 
-=======
+
 Estan laburando?
+
 O vamos a tomar unos tragos?
->>>>>>> 7c0b466268d4946c7c0f7198a4284ae10e421501
